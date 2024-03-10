@@ -1,1 +1,1 @@
-https://www.3cardcontainer.netlify.com
+https://3cardcontainer.netlify.com
